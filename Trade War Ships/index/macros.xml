@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ?xml-stylesheet href="index.xsl" type="text\xsl" ? -->
+<index>
+	<entry name="storage_ship_tel_l_miner_destroyer_01_a_macro" value="extensions\Trade War Ships\assets\units\size_l\macros\storage_ship_tel_l_miner_destroyer_01_a_macro"/>
+	<entry name="ship_tel_l_miner_destroyer_01_a_macro" value="extensions\Trade War Ships\assets\units\size_l\macros\ship_tel_l_miner_destroyer_01_a_macro"/>
+</index>

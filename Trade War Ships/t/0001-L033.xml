@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <diff>
+  <add sel="/language">
+    <page id="920130727" title="Discing Ships" descr="Details of Discing Added Ships Types" voice="no">
+		 <t id="10001">Crane</t>
+		 <t id="10002">(Crane Raider){920130728,10001} {920130728,10003}</t>
+		 <t id="10003">Raider</t>
+		 <t id="10004">DN</t>
+		 <t id="10005">To compensate for the losses caused by the fights with Xenon and HOP, some Sonra freighters were converted into destroyers by the Argon military. </t>
+     </page>
+  </add>
+</diff>
